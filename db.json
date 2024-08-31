@@ -9,8 +9,247 @@
     "bronze_medals": 42,
     "total_medals": 126,
     "rank": 1,
-    "rank_total_medals": 1
-    },
+    "rank_total_medals": 1,
+    "sports": [
+        {
+            "gold": 0,
+            "name": "3x3 Basketball",
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 3,
+            "silver": 1,
+            "bronze": 5,
+            "total": 9
+        },
+        {
+            "name": "Artistic Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 14,
+            "silver": 11,
+            "bronze": 9,
+            "total": 34
+        },     
+        {
+            "name": "Basketball",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Breaking",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Mountain Bike",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Football",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Golf",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Rugby Sevens",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 1,
+            "total": 5
+        },
+        {
+            "name": "Skateboarding",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Surfing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 8,
+            "silver": 13,
+            "bronze": 7,
+            "total": 28
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Triathlon",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Volleyball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Water Polo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3,
+            "total": 7
+        }
+    ]},
     {
     "id": "CHN",
     "name": "China",
@@ -20,8 +259,170 @@
     "bronze_medals": 24,
     "total_medals": 91,
     "rank": 2,
-    "rank_total_medals": 2
-    },
+    "rank_total_medals": 2,
+    "sports": [
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 2,
+            "silver": 5,
+            "bronze": 2,
+            "total": 9
+        },
+        {
+            "name": "Artistic Swimming",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "name": "Badminton",
+            "gold": 2,
+            "silver": 3,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Boxing",
+            "gold": 3,
+            "silver": 2,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Breaking",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Diving",
+            "gold": 8,
+            "silver": 2,
+            "bronze": 1,
+            "total": 11
+        },
+        {
+            "name": "Golf",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Hockey",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0 ,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rhythmic Gymnastics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 5,
+            "silver": 2,
+            "bronze": 3,
+            "total": 10
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 2,
+            "silver": 3,
+            "bronze": 7,
+            "total": 12
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 5,
+            "silver": 1,
+            "bronze": 0,
+            "total": 6
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Tennis",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Trampoline Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 5,
+            "silver": 0,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 4,
+            "total": 5
+        }
+    ]},
     {
     "id": "JPN",
     "name": "Japan",
@@ -31,8 +432,121 @@
     "bronze_medals": 13,
     "total_medals": 45,
     "rank": 3,
-    "rank_total_medals": 6
-    },
+    "rank_total_medals": 6,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Badminton",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Breaking",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 2,
+            "total": 5
+        },
+        {
+            "name": "Golf",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 3,
+            "silver": 2,
+            "bronze": 3,
+            "total": 8
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Skateboarding",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 0,
+            "total": 4
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 8,
+            "silver": 1,
+            "bronze": 2,
+            "total": 11
+        }
+    ]},
     {
     "id": "AUS",
     "name": "Australia",
@@ -42,8 +556,149 @@
     "bronze_medals": 16,
     "total_medals": 53,
     "rank": 4,
-    "rank_total_medals": 5
-    },
+    "rank_total_medals": 5,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 4,
+            "total": 7
+        },
+        {
+            "name": "Basketball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 3,
+            "silver": 0,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Cycling BMX Racing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 2,
+            "total": 5
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Marathon Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Skateboarding",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Surfing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 7,
+            "silver": 8,
+            "bronze": 3,
+            "total": 18
+        },
+        {
+            "name": "Tennis",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Water Polo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "FRA",
     "name": "France",
@@ -53,8 +708,198 @@
     "bronze_medals": 22,
     "total_medals": 64,
     "rank": 5,
-    "rank_total_medals": 4
-    },
+    "rank_total_medals": 4,
+    "sports": [
+        {
+            "name": "3x3 Basketball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Basketball",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Breaking",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Cycling BMX Racing",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Cycling Mountain Bike",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 4,
+            "bronze": 2,
+            "total": 7
+        },
+        {
+            "name": "Football",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Handball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 6,
+            "total": 10
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rugby Sevens",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Surfing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 4,
+            "silver": 1,
+            "bronze": 2,
+            "total": 7
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Triathlon",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Volleyball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "NED",
     "name": "Netherlands",
@@ -64,8 +909,100 @@
     "bronze_medals": 12,
     "total_medals": 34,
     "rank": 6,
-    "rank_total_medals": 8
-    },
+    "rank_total_medals": 8,
+    "sports": [
+        {
+            "name": "3x3 Basketball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Artistic Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 3,
+            "total": 6
+        },
+        {
+            "name": "Cycling BMX Racing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1,
+            "total": 5
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Hockey",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Marathon Swimming",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 4,
+            "silver": 3,
+            "bronze": 1,
+            "total": 8
+        },
+        {
+            "name": "Sailing",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Water Polo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "GBR",
     "name": "Great Britain",
@@ -75,8 +1012,163 @@
     "bronze_medals": 29,
     "total_medals": 65,
     "rank": 7,
-    "rank_total_medals": 3
-    },
+    "rank_total_medals": 3,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Artistic Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5,
+            "total": 10
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Mountain Bike",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 4,
+            "total": 8
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 4,
+            "total": 5
+        },
+        {
+            "name": "Equestrian",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 3,
+            "total": 5
+        },
+        {
+            "name": "Golf",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 3,
+            "silver": 2,
+            "bronze": 3,
+            "total": 8
+        },
+        {
+            "name": "Sailing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Skateboarding",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 1,
+            "silver": 4,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Trampoline Gymnastics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Triathlon",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "KOR",
     "name": "Republic of Korea",
@@ -86,8 +1178,86 @@
     "bronze_medals": 10,
     "total_medals": 32,
     "rank": 8,
-    "rank_total_medals": 10
-    },
+    "rank_total_medals": 10,
+    "sports": [
+        {
+            "name": "Archery",
+            "gold": 5,
+            "silver": 1,
+            "bronze": 1,
+            "total": 7
+        },
+        {
+            "name": "Badminton",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 3,
+            "total": 5
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 3,
+            "silver": 3,
+            "bronze": 0,
+            "total": 6
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "ITA",
     "name": "Italy",
@@ -97,8 +1267,142 @@
     "bronze_medals": 15,
     "total_medals": 40,
     "rank": 9,
-    "rank_total_medals": 7
-    },
+    "rank_total_medals": 7,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 1,
+            "total": 5
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Marathon Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rhythmic Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Sailing",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Swimming",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 2,
+            "total": 5
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Volleyball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "GER",
     "name": "Germany",
@@ -108,8 +1412,142 @@
     "bronze_medals": 8,
     "total_medals": 33,
     "rank": 10,
-    "rank_total_medals": 9
-    },
+    "rank_total_medals": 9,
+    "sports": [
+        {
+            "name": "3x3 Basketball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Beach Volleyball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Equestrian",
+            "gold": 4,
+            "silver": 1,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Football",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Golf",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Handball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Hockey",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Marathon Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rhythmic Gymnastics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Triathlon",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "NZL",
     "name": "New Zealand",
@@ -119,8 +1557,72 @@
     "bronze_medals": 3,
     "total_medals": 20,
     "rank": 11,
-    "rank_total_medals": 12
-    },
+    "rank_total_medals": 12,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 3,
+            "silver": 0,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 1,
+            "total": 5
+        },
+        {
+            "name": "Golf",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Rugby Sevens",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Triathlon",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "CAN",
     "name": "Canada",
@@ -130,8 +1632,114 @@
     "bronze_medals": 11,
     "total_medals": 27,
     "rank": 12,
-    "rank_total_medals": 11
-    },
+    "rank_total_medals": 11,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1,
+            "total": 5
+        },
+        {
+            "name": "Beach Volleyball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Breaking",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rugby Sevens",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 3,
+            "silver": 2,
+            "bronze": 3,
+            "total": 8
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Trampoline Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "UZB",
     "name": "Uzbekistan",
@@ -141,8 +1749,44 @@
     "bronze_medals": 3,
     "total_medals": 13,
     "rank": 13,
-    "rank_total_medals": 16
-    },
+    "rank_total_medals": 16,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 5,
+            "silver": 0,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "HUN",
     "name": "Hungary",
@@ -152,8 +1796,65 @@
     "bronze_medals": 6,
     "total_medals": 19,
     "rank": 14,
-    "rank_total_medals": 14
-    },
+    "rank_total_medals": 14,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 4,
+            "bronze": 3,
+            "total": 7
+        },
+        {
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Marathon Swimming",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "ESP",
     "name": "Spain",
@@ -163,20 +1864,161 @@
     "bronze_medals": 9,
     "total_medals": 18,
     "rank": 15,
-    "rank_total_medals": 15
-    },
+    "rank_total_medals": 15,
+    "sports": [
+        {
+            "name": "3x3 Basketball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Artistic Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Football",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Handball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Water Polo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "SWE",
     "name": "Sweden",
-    
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWE.png",
     "gold_medals": 4,
     "silver_medals": 4,
     "bronze_medals": 3,
     "total_medals": 11,
     "rank": 16,
-    "rank_total_medals": 19
-    },
+    "rank_total_medals": 19,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Beach Volleyball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Mountain Bike",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "KEN",
     "name": "Kenya",
@@ -187,8 +2029,16 @@
     "bronze_medals": 5,
     "total_medals": 11,
     "rank": 17,
-    "rank_total_medals": 19
-    },
+    "rank_total_medals": 19,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 4,
+            "silver": 2,
+            "bronze": 5,
+            "total": 11
+        }
+    ]},
     {
     "id": "NOR",
     "name": "Norway",
@@ -198,8 +2048,51 @@
     "bronze_medals": 3,
     "total_medals": 8,
     "rank": 18,
-    "rank_total_medals": 26
-    },
+    "rank_total_medals": 26,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 2,
+            "silver": 1,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Beach Volleyball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Handball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "IRL",
     "name": "Ireland",
@@ -209,8 +2102,51 @@
     "bronze_medals": 3,
     "total_medals": 7,
     "rank": 19,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "BRA",
     "name": "Brasil",
@@ -220,8 +2156,86 @@
     "bronze_medals": 10,
     "total_medals": 20,
     "rank": 20,
-    "rank_total_medals": 12
-    },
+    "rank_total_medals": 12,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Beach Volleyball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Football",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "name": "Skateboarding",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Surfing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Volleyball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "IRI",
     "name": "Islamic Rep. of Iran",
@@ -231,8 +2245,23 @@
     "bronze_medals": 3,
     "total_medals": 12,
     "rank": 21,
-    "rank_total_medals": 17
-    },
+    "rank_total_medals": 17,
+    "sports": [
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 1,
+            "total": 4
+        },
+        {
+            "name": "Wrestling",
+            "gold": 2,
+            "silver": 4,
+            "bronze": 2,
+            "total": 8
+        }
+    ]},
     {
     "id": "UKR",
     "name": "Ukraine",
@@ -242,8 +2271,58 @@
     "bronze_medals": 4,
     "total_medals": 12,
     "rank": 22,
-    "rank_total_medals": 17
-    },
+    "rank_total_medals": 17,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Boxing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        }
+    ]},
     {
     "id": "ROU",
     "name": "Romania",
@@ -253,8 +2332,37 @@
     "bronze_medals": 2,
     "total_medals": 9,
     "rank": 23,
-    "rank_total_medals": 23
-    },
+    "rank_total_medals": 23,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 2,
+            "silver": 3,
+            "bronze": 0,
+            "total": 5
+        },
+        {
+            "name": "Swimming",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "GEO",
     "name": "Georgia",
@@ -264,8 +2372,37 @@
     "bronze_medals": 1,
     "total_medals": 7,
     "rank": 24,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 2,
+            "bronze": 0,
+            "total": 3
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "BEL",
     "name": "Belgium",
@@ -275,8 +2412,44 @@
     "bronze_medals": 6,
     "total_medals": 10,
     "rank": 25,
-    "rank_total_medals": 21
-    },
+    "rank_total_medals": 21,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Cycling Road",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "BUL",
     "name": "Bulgaria",
@@ -286,8 +2459,44 @@
     "bronze_medals": 3,
     "total_medals": 7,
     "rank": 26,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rhythmic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "SRB",
     "name": "Serbia",
@@ -297,8 +2506,44 @@
     "bronze_medals": 1,
     "total_medals": 5,
     "rank": 27,
-    "rank_total_medals": 44
-    },
+    "rank_total_medals": 44,
+    "sports": [
+        {
+            "name": "Basketball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Water Polo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "CZE",
     "name": "Czech Republic",
@@ -308,8 +2553,37 @@
     "bronze_medals": 2,
     "total_medals": 5,
     "rank": 28,
-    "rank_total_medals": 44
-    },
+    "rank_total_medals": 44,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Fencing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "DEN",
     "name": "Denmark",
@@ -319,8 +2593,65 @@
     "bronze_medals": 5,
     "total_medals": 9,
     "rank": 29,
-    "rank_total_medals": 23
-    },
+    "rank_total_medals": 23,
+    "sports": [
+        {
+            "name": "Badminton",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Handball",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "AZE",
     "name": "Azerbaijan",
@@ -330,8 +2661,37 @@
     "bronze_medals": 3,
     "total_medals": 7,
     "rank": 30,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 3,
+            "total": 3
+        }
+    ]},
     {
     "id": "CRO",
     "name": "Croatia",
@@ -341,8 +2701,58 @@
     "bronze_medals": 3,
     "total_medals": 7,
     "rank": 30,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Water Polo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "CUB",
     "name": "Cuba",
@@ -352,8 +2762,37 @@
     "bronze_medals": 6,
     "total_medals": 9,
     "rank": 32,
-    "rank_total_medals": 23
-    },
+    "rank_total_medals": 23,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 3,
+            "total": 5
+        }
+    ]},
     {
     "id": "BRN",
     "name": "Bahrain",
@@ -363,8 +2802,30 @@
     "bronze_medals": 1,
     "total_medals": 4,
     "rank": 33,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "SLO",
     "name": "Slovenia",
@@ -374,8 +2835,30 @@
     "bronze_medals": 0,
     "total_medals": 3,
     "rank": 34,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "TPE",
     "name": "Chinese Taipei",
@@ -385,8 +2868,44 @@
     "bronze_medals": 5,
     "total_medals": 7,
     "rank": 35,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Badminton",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "AUT",
     "name": "Austria",
@@ -396,8 +2915,30 @@
     "bronze_medals": 3,
     "total_medals": 5,
     "rank": 36,
-    "rank_total_medals": 44
-    },
+    "rank_total_medals": 44,
+    "sports": [
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "PHI",
     "name": "Filipinas",
@@ -407,8 +2948,23 @@
     "bronze_medals": 2,
     "total_medals": 4,
     "rank": 37,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "HKG",
     "name": "Hong Kong, China",
@@ -418,8 +2974,23 @@
     "bronze_medals": 2,
     "total_medals": 4,
     "rank": 37,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Fencing",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "ALG",
     "name": "Algeria",
@@ -429,8 +3000,30 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 39,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "INA",
     "name": "Indonesia",
@@ -440,8 +3033,30 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 39,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Badminton",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "ISR",
     "name": "Israel",
@@ -451,8 +3066,37 @@
     "bronze_medals": 1,
     "total_medals": 7,
     "rank": 41,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Rhythmic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "POL",
     "name": "Poland",
@@ -462,8 +3106,72 @@
     "bronze_medals": 5,
     "total_medals": 10,
     "rank": 42,
-    "rank_total_medals": 21
-    },
+    "rank_total_medals": 21,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Fencing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sport Climbing",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Tennis",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Volleyball",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "KAZ",
     "name": "Kazakhstan",
@@ -473,8 +3181,44 @@
     "bronze_medals": 3,
     "total_medals": 7,
     "rank": 43,
-    "rank_total_medals": 30
-    },
+    "rank_total_medals": 30,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Judo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "RSA",
     "name": "South Africa",
@@ -484,8 +3228,37 @@
     "bronze_medals": 2,
     "total_medals": 6,
     "rank": 44,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Cycling Mountain Bike",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rugby Sevens",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Swimming",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "JAM",
     "name": "Jamaica",
@@ -495,8 +3268,16 @@
     "bronze_medals": 2,
     "total_medals": 6,
     "rank": 44,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 2,
+            "total": 6
+        }
+    ]},
     {
     "id": "THA",
     "name": "Thailand",
@@ -506,8 +3287,37 @@
     "bronze_medals": 2,
     "total_medals": 6,
     "rank": 44,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Badminton",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        }
+    ]},
     {
     "id": "ETH",
     "name": "Ethiopia",
@@ -517,8 +3327,16 @@
     "bronze_medals": 0,
     "total_medals": 4,
     "rank": 47,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 3,
+            "bronze": 0,
+            "total": 4
+        }
+    ]},
     {
     "id": "SUI",
     "name": "Switzerland",
@@ -528,8 +3346,58 @@
     "bronze_medals": 5,
     "total_medals": 8,
     "rank": 48,
-    "rank_total_medals": 26
-    },
+    "rank_total_medals": 26,
+    "sports": [
+        {
+            "name": "Beach Volleyball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Cycling BMX Racing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Equestrian",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Triathlon",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "ECU",
     "name": "Ecuador",
@@ -539,8 +3407,30 @@
     "bronze_medals": 2,
     "total_medals": 5,
     "rank": 49,
-    "rank_total_medals": 44
-    },
+    "rank_total_medals": 44,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "POR",
     "name": "Portugal",
@@ -550,8 +3440,30 @@
     "bronze_medals": 1,
     "total_medals": 4,
     "rank": 50,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Cycling Track",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "GRE",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRE.png",
@@ -561,8 +3473,52 @@
     "bronze_medals": 6,
     "total_medals": 8,
     "rank": 51,
-    "rank_total_medals": 26
-    },
+    "rank_total_medals": 26,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Swimming",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
+    
     {
     "id": "ARG",
     "continent": "AME",
@@ -572,8 +3528,30 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 52,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Cycling BMX Freestyle",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Hockey",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "EGY",
     "name": "Egypt",
@@ -583,8 +3561,30 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 52,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Fencing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Modern Pentathlon",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "TUN",
     "name": "Tunisia",
@@ -594,8 +3594,23 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 52,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Fencing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "BOT",
     "name": "Botswana",
@@ -605,8 +3620,16 @@
     "bronze_medals": 0,
     "total_medals": 2,
     "rank": 55,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "CHI",
     "name": "Chile",
@@ -616,8 +3639,23 @@
     "bronze_medals": 0,
     "total_medals": 2,
     "rank": 55,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "LCA",
     "name": "Saint Lucia",
@@ -627,8 +3665,16 @@
     "bronze_medals": 0,
     "total_medals": 2,
     "rank": 55,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "UGA",
     "name": "Uganda",
@@ -638,8 +3684,16 @@
     "bronze_medals": 0,
     "total_medals": 2,
     "rank": 55,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        }
+    ]},
     {
     "id": "DOM",
     "name": "Dominican Republic",
@@ -649,8 +3703,23 @@
     "bronze_medals": 2,
     "total_medals": 3,
     "rank": 59,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "GUA",
     "name": "Guatemala",
@@ -660,8 +3729,16 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 60,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Shooting",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "MAR",
     "name": "Morocco",
@@ -671,8 +3748,23 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 60,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Football",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "DMA",
     "name": "Dominica",
@@ -682,8 +3774,16 @@
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 62,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "PAK",
     "name": "Pakistan",
@@ -693,8 +3793,16 @@
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 62,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "TUR",
     "name": "Turkey",
@@ -704,8 +3812,44 @@
     "bronze_medals": 5,
     "total_medals": 8,
     "rank": 64,
-    "rank_total_medals": 26
-    },
+    "rank_total_medals": 26,
+    "sports": [
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "MEX",
     "name": "México",
@@ -715,8 +3859,37 @@
     "bronze_medals": 2,
     "total_medals": 5,
     "rank": 65,
-    "rank_total_medals": 44
-    },
+    "rank_total_medals": 44,
+    "sports": [
+        {
+            "name": "Archery",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "ARM",
     "name": "Armenia",
@@ -726,8 +3899,30 @@
     "bronze_medals": 1,
     "total_medals": 4,
     "rank": 66,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "COL",
     "name": "Colombia",
@@ -737,8 +3932,30 @@
     "bronze_medals": 1,
     "total_medals": 4,
     "rank": 66,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Artistic Gymnastics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Weightlifting",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "KGZ",
     "name": "Kyrgyzstan",
@@ -748,8 +3965,23 @@
     "bronze_medals": 4,
     "total_medals": 6,
     "rank": 68,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 4,
+            "total": 5
+        }
+    ]},
     {
     "id": "PRK",
     "name": "RPD da Coréia",
@@ -759,8 +3991,37 @@
     "bronze_medals": 4,
     "total_medals": 6,
     "rank": 68,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Diving",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "name": "Table Tennis",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "LTU",
     "name": "Lithuania",
@@ -770,8 +4031,37 @@
     "bronze_medals": 2,
     "total_medals": 4,
     "rank": 70,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "3x3 Basketball",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Breaking",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Rowing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "IND",
     "name": "India",
@@ -781,8 +4071,37 @@
     "bronze_medals": 5,
     "total_medals": 6,
     "rank": 71,
-    "rank_total_medals": 38
-    },
+    "rank_total_medals": 38,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "name": "Hockey",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Shooting",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 3,
+            "total": 3
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "MDA",
     "name": "Moldova",
@@ -792,8 +4111,30 @@
     "bronze_medals": 3,
     "total_medals": 4,
     "rank": 72,
-    "rank_total_medals": 49
-    },
+    "rank_total_medals": 49,
+    "sports": [
+        {
+            "name": "Canoe Sprint",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "KOS",
     "name": "Kosovo",
@@ -803,8 +4144,16 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 73,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        }
+    ]},
     {
     "id": "CYP",
     "name": "Chipre",
@@ -814,8 +4163,16 @@
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 74,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "FIJ",
     "name": "Fiji",
@@ -825,63 +4182,118 @@
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 74,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Rugby Sevens",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "JOR",
-    "name": "Jordânia",
+    "name": "Jordan",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JOR.png",
     "gold_medals": 0,
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 74,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "MGL",
-    "name": "Mongólia",
+    "name": "Mongolia",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MGL.png",
     "gold_medals": 0,
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 74,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "PAN",
-    "name": "Panamá",
+    "name": "Panama",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PAN.png",
     "gold_medals": 0,
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 1,
     "rank": 74,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        }
+    ]},
     {
     "id": "TJK",
-    "name": "Tajiquistão",
+    "name": "Tajikistan",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TJK.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 3,
     "total_medals": 3,
     "rank": 79,
-    "rank_total_medals": 58
-    },
+    "rank_total_medals": 58,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Judo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "ALB",
-    "name": "Albânia",
+    "name": "Albania",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ALB.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 80,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Wrestling",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "GRN",
     "name": "Granada",
@@ -891,30 +4303,61 @@
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 80,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "MAS",
-    "name": "Malásia",
+    "name": "Malaysia",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MAS.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 80,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Badminton",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        }
+    ]},
     {
     "id": "PUR",
-    "name": "Porto Rico",
+    "name": "Puerto Rico",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PUR.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 80,
-    "rank_total_medals": 66
-    },
+    "rank_total_medals": 66,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "name": "Badminton",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "CPV",
     "name": "Cabo Verde",
@@ -924,19 +4367,35 @@
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "QAT",
-    "name": "Catar",
+    "name": "Qatar",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/QAT.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "CIV",
     "name": "Côte d'Ivoire",
@@ -946,19 +4405,35 @@
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Taekwondo",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "SVK",
-    "name": "Eslováquia",
+    "name": "Slovakia",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SVK.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Canoe Slalom",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "PER",
     "name": "Peru",
@@ -968,30 +4443,54 @@
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "SGP",
-    "name": "Singapura",
+    "name": "Singapore",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SGP.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Sailing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "ZAM",
-    "name": "Zâmbia",
+    "name": "Zambia",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ZAM.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    },
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Athletics",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]},
     {
     "id": "EOR",
     "name": "EOR",
@@ -1001,7 +4500,14 @@
     "bronze_medals": 1,
     "total_medals": 1,
     "rank": 84,
-    "rank_total_medals": 77
-    }
-]
-}
+    "rank_total_medals": 77,
+    "sports": [
+        {
+            "name": "Boxing",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
+    ]}
+]}
